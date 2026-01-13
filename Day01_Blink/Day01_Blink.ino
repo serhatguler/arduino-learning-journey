@@ -15,9 +15,9 @@ void setup()
 void loop()
 {
   digitalWrite(7, HIGH);
-  delay(2000);// Wait for 1000 millisecond(s)
+  delay(2000);// Wait for 2000 millisecond(s)
   digitalWrite(7, LOW);
-  delay(2000);// Wait for 1000 millisecond(s)
+  delay(2000);// Wait for 2000 millisecond(s)
   
   digitalWrite(2,HIGH);
   delay(1000);
